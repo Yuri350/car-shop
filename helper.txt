@@ -1,0 +1,9 @@
+passo 1:
+npm install
+docker-compose up -d
+
+passo2:
+docker pull mongo
+
+passo 3 criando container:
+docker run --name carshopcontainer -p 27017:27017 -d mongo
