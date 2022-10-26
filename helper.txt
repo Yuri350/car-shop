@@ -1,3 +1,5 @@
+https://zod.dev/?id=numbers
+
 passo 1:
 npm install
 docker-compose up -d
