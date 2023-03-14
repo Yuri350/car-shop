@@ -5,7 +5,7 @@ O `Car Shop` é um site para venda de veículos, podendo cadastrar, deletar, alt
 
 ## Técnologias usadas
 
-Princípios de Programação Orientada a Objetos (`POO`) para a construção de uma API com `CRUD` para gerenciar uma concessionária de veículos. O O projeto foi feito utilizando o banco de dados `MongoDB`.
+Princípios de Programação Orientada a Objetos (`POO`) para a construção de uma API com `CRUD` para gerenciar uma concessionária de veículos. O projeto foi feito utilizando o banco de dados `MongoDB`.
 
 # Orientações
 
