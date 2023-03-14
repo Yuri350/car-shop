@@ -1,7 +1,7 @@
 # Boas-vindas ao projeto Car Shop!
 
 # Contexto
-O `Car Shop` é um site para venda de veículos, podendo cadastrar, deletar, alterar, procurar o um veículo pelo ID, listar todos os veículos e etc.
+O `Car Shop` é um site para venda de veículos, podendo cadastrar, deletar, alterar, procurar um veículo pelo ID, listar todos os veículos e etc.
 
 ## Técnologias usadas
 
